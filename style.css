@@ -18,3 +18,40 @@ nav li {
 nav .list-container{
     display: flex;
     gap:20px;
+
+}
+main h1, .title-banner{
+    font-size: 70px;
+
+}
+.description-banner{
+    font-size: 20px;
+    width:50%;
+    margin:auto;
+    padding: 20px;
+    color: white;
+}
+.btn{
+    padding: 10px 25px;
+    background-color: rgb(232, 60, 60);
+    color: white;
+    border: none;
+    margin-right: 10px;
+}
+.btn-bg{
+    padding: 10px 25px ;
+    border: none;
+}
+.banner{
+    background-image: url('./asset/image/background.jpg'), linear-gradient(rgba(10,9,10,.07),rgba(9,3,5,0.6));
+    background-blend-mode: overlay;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height:600px;
+    display:flex;
+    align-items: center;
+    margin:auto;
+    text-align: center;
+    color: white;
+}
