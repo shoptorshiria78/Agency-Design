@@ -232,3 +232,34 @@ article{
     padding:10px 5px;
     font-size: 20px;
 }
+footer{
+    background-color: black;
+    padding:20px 20px;
+    color:white;
+}
+.contact-info{
+    display:flex ;
+    height: auto;
+    align-items: center;
+    justify-content:space-around ;
+    width:90%;
+    margin:auto;
+    padding: 80px 80px;
+}
+.foot-para{
+    width:70%;
+    padding: 10px 20px;
+    
+}
+.foot{
+    
+    width:80%;
+    
+}
+.social-media{
+    /* margin-right: 0px; */
+    width:100%;
+}
+h4{
+    margin-top: 5px;
+}
